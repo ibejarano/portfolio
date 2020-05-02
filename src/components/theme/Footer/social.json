@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "name": "Github",
+    "link": "https://github.com/ibejarano",
+    "icon": "/icons/github.svg"
+  },
+  {
+    "id": 1,
+    "name": "Twitter",
+    "link": "https://twitter.com/IgnacioBejara13",
+    "icon": "/icons/twitter.svg"
+  }
+]
